@@ -1,27 +1,27 @@
-distributor	region	segment_focus	quarterly_revenue_eur_m	inventory_weeks	on_time_delivery_pct	design_wins_q4	partner_tier
-Arrow Electronics	EMEA	Automotive	184.5	11.2	94.3	42	Preferred
-Arrow Electronics	Americas	Automotive	156.8	9.8	95.1	38	Preferred
-Arrow Electronics	Asia-Pacific	Power & Sensor	142.3	12.5	92.7	29	Preferred
-Avnet	EMEA	Industrial Power	128.4	10.3	93.8	35	Preferred
-Avnet	Americas	Connected Secure	98.7	8.9	96.2	27	Preferred
-Avnet	Asia-Pacific	Automotive	134.1	11.8	91.5	31	Preferred
-WPG Holdings	Greater China	Power & Sensor	221.6	9.4	93.1	52	Preferred
-WPG Holdings	Asia-Pacific	Automotive	178.9	10.1	92.4	44	Preferred
-WT Microelectronics	Greater China	Connected Secure	165.3	9.7	94.5	39	Preferred
-WT Microelectronics	Asia-Pacific	Industrial Power	142.7	10.8	93.2	33	Preferred
-Future Electronics	Americas	Power & Sensor	87.4	11.5	90.7	22	Authorized
-Future Electronics	EMEA	Automotive	76.2	12.1	89.3	18	Authorized
-Digi-Key	Americas	Connected Secure	64.8	7.2	98.1	15	Authorized
-Digi-Key	EMEA	Connected Secure	52.3	7.8	97.4	12	Authorized
-Mouser Electronics	Americas	Industrial Power	58.9	7.5	97.8	14	Authorized
-Mouser Electronics	EMEA	Power & Sensor	46.7	8.1	96.9	11	Authorized
-Macnica	Japan	Automotive	112.5	10.5	94.7	28	Preferred
-Macnica	Asia-Pacific	Connected Secure	89.3	11	93.5	24	Preferred
-Rutronik	EMEA	Industrial Power	94.6	9.9	95.2	26	Preferred
-Rutronik	EMEA	Automotive	108.2	10.4	94.6	31	Preferred
-TTI Inc	Americas	Power & Sensor	42.5	8.7	96.4	9	Authorized
-TTI Inc	EMEA	Industrial Power	38.1	9.3	95.7	8	Authorized
-RS Group	EMEA	Connected Secure	48.9	8.2	97.1	13	Authorized
-RS Group	Americas	Power & Sensor	41.2	8.9	96.5	10	Authorized
-EBV Elektronik	EMEA	Automotive	156.7	10.2	94.1	38	Preferred
-EBV Elektronik	EMEA	Industrial Power	132.4	10.7	93.6	33	Preferred
+distributor,region,segment_focus,quarterly_revenue_eur_m,inventory_weeks,on_time_delivery_pct,design_wins_q4,partner_tier
+Arrow Electronics,EMEA,Automotive,184.5,11.2,94.3,42,Preferred
+Arrow Electronics,Americas,Automotive,156.8,9.8,95.1,38,Preferred
+Arrow Electronics,Asia-Pacific,Power & Sensor,142.3,12.5,92.7,29,Preferred
+Avnet,EMEA,Industrial Power,128.4,10.3,93.8,35,Preferred
+Avnet,Americas,Connected Secure,98.7,8.9,96.2,27,Preferred
+Avnet,Asia-Pacific,Automotive,134.1,11.8,91.5,31,Preferred
+WPG Holdings,Greater China,Power & Sensor,221.6,9.4,93.1,52,Preferred
+WPG Holdings,Asia-Pacific,Automotive,178.9,10.1,92.4,44,Preferred
+WT Microelectronics,Greater China,Connected Secure,165.3,9.7,94.5,39,Preferred
+WT Microelectronics,Asia-Pacific,Industrial Power,142.7,10.8,93.2,33,Preferred
+Future Electronics,Americas,Power & Sensor,87.4,11.5,90.7,22,Authorized
+Future Electronics,EMEA,Automotive,76.2,12.1,89.3,18,Authorized
+Digi-Key,Americas,Connected Secure,64.8,7.2,98.1,15,Authorized
+Digi-Key,EMEA,Connected Secure,52.3,7.8,97.4,12,Authorized
+Mouser Electronics,Americas,Industrial Power,58.9,7.5,97.8,14,Authorized
+Mouser Electronics,EMEA,Power & Sensor,46.7,8.1,96.9,11,Authorized
+Macnica,Japan,Automotive,112.5,10.5,94.7,28,Preferred
+Macnica,Asia-Pacific,Connected Secure,89.3,11.0,93.5,24,Preferred
+Rutronik,EMEA,Industrial Power,94.6,9.9,95.2,26,Preferred
+Rutronik,EMEA,Automotive,108.2,10.4,94.6,31,Preferred
+TTI Inc,Americas,Power & Sensor,42.5,8.7,96.4,9,Authorized
+TTI Inc,EMEA,Industrial Power,38.1,9.3,95.7,8,Authorized
+RS Group,EMEA,Connected Secure,48.9,8.2,97.1,13,Authorized
+RS Group,Americas,Power & Sensor,41.2,8.9,96.5,10,Authorized
+EBV Elektronik,EMEA,Automotive,156.7,10.2,94.1,38,Preferred
+EBV Elektronik,EMEA,Industrial Power,132.4,10.7,93.6,33,Preferred
