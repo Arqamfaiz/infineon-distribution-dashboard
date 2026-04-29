@@ -1,11 +1,11 @@
-distributor	headquarters	revenue_2023_usd_b	revenue_2024_usd_b	yoy_change_pct
-WPG Holdings	Taiwan	18.7	30.16	61.4
-Arrow Electronics	USA	33.1	27.92	-15.7
-WT Microelectronics	Taiwan	9.7	25.1	158.8
-Avnet	USA	26.5	22.48	-15.2
-Future Electronics	Canada	5.2	0	-100
-Digi-Key	USA	4.9	3.9	-20.4
-Mouser Electronics	USA	4	3.5	-12.5
-Macnica	Japan	7.8	7.2	-7.7
-TTI Inc	USA	3.5	3.1	-11.4
-RS Group	UK	4.2	3.6	-14.3
+distributor,headquarters,revenue_2023_usd_b,revenue_2024_usd_b,yoy_change_pct
+WPG Holdings,Taiwan,18.7,30.16,61.4
+Arrow Electronics,USA,33.1,27.92,-15.7
+WT Microelectronics,Taiwan,9.7,25.1,158.8
+Avnet,USA,26.5,22.48,-15.2
+Future Electronics,Canada,5.2,0.0,-100.0
+Digi-Key,USA,4.9,3.9,-20.4
+Mouser Electronics,USA,4.0,3.5,-12.5
+Macnica,Japan,7.8,7.2,-7.7
+TTI Inc,USA,3.5,3.1,-11.4
+RS Group,UK,4.2,3.6,-14.3
