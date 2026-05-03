@@ -9,7 +9,7 @@ development, KPI tracking, business data consolidation, and competitive
 distribution research, mirroring the responsibilities of a Global
 Distribution Marketing function.
 
-**Live demo:** [Streamlit Cloud link goes here once deployed]
+**Live demo:** https://infineon-distribution-dashboard-va7dmweaoeumzgmo6zt33z.streamlit.app/
 
 ---
 
